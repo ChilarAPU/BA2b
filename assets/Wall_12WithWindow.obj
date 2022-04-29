@@ -180,7 +180,7 @@ vn -0.000000 -0.000000 1.000000
 vn -0.000000 -0.000000 1.000000
 s off
 g pCube114
-usemtl Wall:lambert3SG
+usemtl lambert36SG
 f 5/8/1 2/9/2 3/10/3
 f 5/8/4 3/10/5 6/13/6
 f 1/12/7 4/11/8 7/14/9
@@ -189,31 +189,20 @@ f 9/45/14 11/46/15 10/47/16 8/48/17
 f 13/1/18 16/2/19 14/3/20
 f 14/3/21 16/2/22 17/6/23
 f 12/4/24 15/5/25 16/2/26 13/1/27
-usemtl WallBottomSection:lambert8SG
 f 7/31/28 4/32/29 15/33/30 18/34/31
 f 7/15/32 18/16/33 12/17/34 1/18/35
 f 8/53/36 21/54/37 22/55/38 9/56/39
-usemtl WallTopSection:lambert9SG
 f 3/19/40 2/20/41 13/21/42 14/22/43
 f 6/41/44 3/43/45 14/44/46 17/42/47
 f 6/41/48 17/42/49 16/39/50 5/37/51
 f 11/57/52 20/58/53 19/59/54 10/60/55
-usemtl Wall:lambert3SG
 f 20/49/56 22/50/57 21/51/58 19/52/59
-usemtl Wall:lambert3SG WallBottomSection:lambert8SG
 f 18/7/60 15/5/61 12/4/62
-usemtl Wall:lambert3SG
 f 4/32/63 5/37/64 11/38/65 9/35/66
-usemtl WallBottomSection:lambert8SG
 f 15/33/67 4/32/68 9/35/69 22/36/70
-usemtl Wall:lambert3SG
 f 16/39/71 15/33/72 22/36/73 20/40/74
-usemtl initialShadingGroup
 f 16/39/75 20/40/76 11/38/77 5/37/78
-usemtl WallTopSection:lambert9SG
 f 13/23/79 2/24/80 10/25/81 19/26/82
-usemtl WallBottomSection:lambert8SG
 f 1/27/83 12/29/84 21/30/85 8/28/86
-usemtl initialShadingGroup
 f 2/24/87 1/27/88 8/28/89 10/25/90
 f 12/29/91 13/23/92 19/26/93 21/30/94
